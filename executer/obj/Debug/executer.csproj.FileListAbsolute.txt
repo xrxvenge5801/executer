@@ -1,0 +1,10 @@
+C:\Users\gooda\source\repos\executer\executer\bin\Debug\executer.exe.config
+C:\Users\gooda\source\repos\executer\executer\bin\Debug\executer.exe
+C:\Users\gooda\source\repos\executer\executer\bin\Debug\executer.pdb
+C:\Users\gooda\source\repos\executer\executer\obj\Debug\executer.csproj.AssemblyReference.cache
+C:\Users\gooda\source\repos\executer\executer\obj\Debug\executer.Form1.resources
+C:\Users\gooda\source\repos\executer\executer\obj\Debug\executer.Properties.Resources.resources
+C:\Users\gooda\source\repos\executer\executer\obj\Debug\executer.csproj.GenerateResource.cache
+C:\Users\gooda\source\repos\executer\executer\obj\Debug\executer.csproj.CoreCompileInputs.cache
+C:\Users\gooda\source\repos\executer\executer\obj\Debug\executer.exe
+C:\Users\gooda\source\repos\executer\executer\obj\Debug\executer.pdb
